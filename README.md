@@ -1,10 +1,12 @@
-# H1FR7x-Hardware
-
-Hexabitz Zigbee Module Hardware Design
+# H2AR1x-Hardware
 
 
 
-Design this module using the STM32G0B1CEU6 MCU and XBRR-24Z8.
+Hexabitz Hall Current Module Hardware Design
+
+
+
+Design this module using the STM32G0B1CEU6 MCU and TLI4970-D050T4.
 
 
 
